@@ -16,5 +16,3 @@
   - Analyze shipping mode, shipping cost, delivery day from customer buy our product.
   - Filter dashboard to analyze through years, quarters and delivery status.
 <img src="https://github.com/KitsadaPuttivanit/Sale_Online_Analysis_Dashboard/assets/158123269/f697fea1-4533-4753-9b80-18ecf82d0682" width=50% height=50%>
-
-
